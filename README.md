@@ -153,16 +153,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashsahare05&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yashsahare05&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsahare05&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashsahare05&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yashsahare05&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=58a6ff30" height="180"/>
+<img src="https://streak-stats.demolab.com?user=yashsahare05&hide_border=true&theme=transparent&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=58a6ff30" height="180"/>
 
 </div>
-
 ---
 
 ## 🌐 Connect with Me
