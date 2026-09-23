@@ -1,27 +1,20 @@
 <div align="center">
 
-# YASH SAHARE
+# Yash Sahare
 
-### `AI / ML` &nbsp;·&nbsp; `SOFTWARE` &nbsp;·&nbsp; `OPEN SOURCE`
+### AI / ML · Software Engineering · Open Source
 
-<samp>
-engineering things. breaking things. understanding why.
-</samp>
+Engineering student focused on building strong foundations in machine learning, software systems, and open-source development.
 
-<br><br>
+<br>
 
-<a href="https://github.com/yashsahare05">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/yash-sahare-81b288355">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/yash_onx">
-  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/yashhh.s_">
-  <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<a href="https://github.com/yashsahare05">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yash-sahare-81b288355">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://x.com/yash_onx">X</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.instagram.com/yashhh.s_">Instagram</a>
 
 </div>
 
@@ -29,62 +22,62 @@ engineering things. breaking things. understanding why.
 
 ---
 
-<table>
-<tr>
+## About
 
-<td width="58%" valign="top">
+I'm an engineering student interested in **artificial intelligence, machine learning, software engineering, and open source**.
 
-### 01 — WHO
+My focus is on understanding systems deeply, improving my problem-solving skills, and gaining experience by working with real-world codebases.
 
-Engineering student working around **machine learning, software systems, open source, and product engineering**.
+Currently learning and working around:
 
-I like understanding how things work beneath the abstraction — then building something with that understanding.
+- Machine Learning
+- Data Structures & Algorithms
+- Backend Systems
+- Computer Vision
+- Open Source
+- Software Architecture
 
-Not chasing every framework.
-
-More interested in **good systems, difficult problems, clean execution, and work that has a point.**
-
-</td>
-
-<td width="42%" valign="top">
-
-### 02 — NOW
-
-```txt
-> machine learning
-> algorithms + DSA
-> open source
-> backend systems
-> computer vision
-> AI engineering
-```
-
-</td>
-
-</tr>
-</table>
+<br>
 
 ---
 
+## Current Focus
+
+```text
+Machine Learning        Advanced concepts and implementation
+DSA                     Problem solving and algorithms
+Open Source             Real-world codebases and contributions
+Backend Engineering     APIs, databases, system design
+Computer Vision         Applied ML and image-based systems
+```
+
+<br>
+
+---
+
+## Technology
+
 <div align="center">
 
-### 03 — TOOLBOX
-
-<samp>small enough to actually use.</samp>
-
-<br><br>
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,ts,java&theme=dark" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,fastapi&theme=dark" />
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,supabase,postgres&theme=dark" />
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,supabase,postgres&theme=dark" />
 
 <br><br>
+
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" />
 
@@ -94,80 +87,32 @@ More interested in **good systems, difficult problems, clean execution, and work
 
 ---
 
-<table>
-<tr>
+## Open Source
 
-<td width="50%" valign="top">
+I contribute to open-source projects to improve my understanding of **production code, engineering workflows, debugging, documentation, and collaborative development**.
 
-### 04 — INTERESTS
+My current areas of interest include:
 
-<br>
-
-<img src="https://img.shields.io/badge/AI_ENGINEERING-161616?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-161616?style=flat-square&logo=pytorch&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/COMPUTER_VISION-161616?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-161616?style=flat-square&logo=linux&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/DEV_TOOLS-161616?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/OPEN_SOURCE-161616?style=flat-square&logo=opensourceinitiative&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/AI_AGENTS-161616?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/PRODUCT_ENGINEERING-161616?style=flat-square&logo=github&logoColor=white" />
-
-</td>
-
-<td width="50%" valign="top">
-
-### 05 — CURRENT SIGNAL
-
-```txt
-learning     advanced ML
-sharpening   DSA
-reading      real codebases
-building     software
-exploring    CV + agents
-shipping     when it makes sense
+```text
+AI / ML
+Backend Engineering
+Developer Tooling
+Documentation
+APIs
+Infrastructure
 ```
-
-</td>
-
-</tr>
-</table>
-
----
-
-### 06 — OPEN SOURCE
-
-```diff
-+ read the code
-+ understand the system
-+ find the actual problem
-+ make the smallest useful change
-```
-
-I contribute to open-source because production code teaches things tutorials usually don't.
-
-Large codebases, design decisions, edge cases, review feedback, legacy constraints, and the occasional:
-
-```txt
-"why the hell does this work?"
-```
-
-That's the interesting part.
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CONTRIBUTOR-TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/CONTRIBUTOR-Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white" />
+<a href="https://github.com/tensorflow">
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=white" />
+</a>
+
+<a href="https://github.com/supabase">
+  <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white" />
+</a>
 
 </div>
 
@@ -175,46 +120,34 @@ That's the interesting part.
 
 ---
 
-### 07 — OPERATING PRINCIPLES
+## Interests
 
-```yaml
-prefer:
-  - depth over noise
-  - systems over demos
-  - shipping over announcing
-  - clarity over complexity
-  - curiosity over certainty
+`AI Engineering`
+&nbsp;·&nbsp;
+`Machine Learning`
+&nbsp;·&nbsp;
+`Computer Vision`
+&nbsp;·&nbsp;
+`Backend Systems`
+&nbsp;·&nbsp;
+`Developer Tools`
+&nbsp;·&nbsp;
+`Open Source`
 
-avoid:
-  - technology for technology's sake
-  - 47 framework badges
-  - pretending to know everything
-```
+<br>
 
 ---
 
 <div align="center">
 
-<br>
-
-### BUILD / BREAK / LEARN / REPEAT
-
 <samp>
-software · intelligence · systems · design
+AI · Software · Systems · Open Source
 </samp>
 
 <br><br>
 
 <a href="https://github.com/yashsahare05">
-  <img src="https://img.shields.io/badge/@yashsahare05-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/yashsahare05-111111?style=flat-square&logo=github&logoColor=white" />
 </a>
-
-<br><br>
-
-<samp>
-still figuring things out. that's kind of the point.
-</samp>
-
-<br>
 
 </div>
