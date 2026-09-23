@@ -1,38 +1,27 @@
-<!-- =========================================================
-     YASH SAHARE — GITHUB PROFILE README
-     ========================================================= -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:111827,100:0D1117&height=6&section=header" width="100%" />
-
-<br>
 
 # YASH SAHARE
 
-### `AI / ML` · `SOFTWARE ENGINEERING` · `OPEN SOURCE`
-
-<br>
+### `AI / ML` &nbsp;·&nbsp; `SOFTWARE` &nbsp;·&nbsp; `OPEN SOURCE`
 
 <samp>
-building intelligent systems with taste.
+engineering things. breaking things. understanding why.
 </samp>
 
 <br><br>
 
 <a href="https://github.com/yashsahare05">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/yash-sahare-81b288355">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+<a href="https://www.linkedin.com/in/yash-sahare-81b288355">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/yash_onx">
-  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" />
+<a href="https://x.com/yash_onx">
+  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=yashsahare05&style=flat-square&color=161B22&label=PROFILE+VIEWS" />
+<a href="https://www.instagram.com/yashhh.s_">
+  <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
@@ -43,77 +32,59 @@ building intelligent systems with taste.
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### 01 / ABOUT
+### 01 — WHO
 
-I'm **Yash Sahare**, an engineering student interested in the intersection of **artificial intelligence, software engineering, research, and design**.
+Engineering student working around **machine learning, software systems, open source, and product engineering**.
 
-I like understanding systems from first principles and turning that understanding into software that is **useful, intentional, and technically ambitious**.
+I like understanding how things work beneath the abstraction — then building something with that understanding.
 
-My current focus is becoming exceptionally good at:
+Not chasing every framework.
 
-**ML engineering · algorithms · system design · open source**
+More interested in **good systems, difficult problems, clean execution, and work that has a point.**
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-### 02 / STATUS
+### 02 — NOW
 
-<pre>
-role: engineering student
-
-focus:
-  - machine learning
-  - software engineering
-  - algorithms
-  - open source
-
-currently:
-  learning: advanced ML + DSA
-  building: intelligent systems
-  exploring: CV + AI agents
-
-philosophy: "build. understand. refine."
-</pre>
+```txt
+> machine learning
+> algorithms + DSA
+> open source
+> backend systems
+> computer vision
+> AI engineering
+```
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 ---
 
 <div align="center">
 
-## 03 / TOOLKIT
+### 03 — TOOLBOX
 
-<samp>the tools I reach for most</samp>
-
-<br><br>
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,ts,cpp,java&theme=dark" />
+<samp>small enough to actually use.</samp>
 
 <br><br>
 
-### Engineering
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,supabase,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,java&theme=dark" />
 
 <br><br>
 
-### Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,fastapi&theme=dark" />
 
 <br><br>
 
-### Environment
+<img src="https://skillicons.dev/icons?i=react,nextjs,supabase,postgres&theme=dark" />
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" />
 
@@ -124,88 +95,79 @@ philosophy: "build. understand. refine."
 ---
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
 
-### 04 / INTERESTS
+### 04 — INTERESTS
 
 <br>
 
-<img src="https://img.shields.io/badge/AI_Engineering-161B22?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/AI_ENGINEERING-161616?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-161616?style=flat-square&logo=pytorch&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Computer_Vision-161B22?style=flat-square&logo=opencv&logoColor=5C3EE8" />
-<img src="https://img.shields.io/badge/AI_Agents-161B22?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/COMPUTER_VISION-161616?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-161616?style=flat-square&logo=linux&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Developer_Tools-161B22?style=flat-square&logo=visualstudiocode&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/System_Design-161B22?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/DEV_TOOLS-161616?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-161616?style=flat-square&logo=opensourceinitiative&logoColor=white" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Open_Source-161B22?style=flat-square&logo=opensourceinitiative&logoColor=3DA639" />
+<img src="https://img.shields.io/badge/AI_AGENTS-161616?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/PRODUCT_ENGINEERING-161616?style=flat-square&logo=github&logoColor=white" />
 
 </td>
 
 <td width="50%" valign="top">
 
-### 05 / CURRENTLY
+### 05 — CURRENT SIGNAL
 
-<pre>
-01  studying advanced machine learning
-02  sharpening DSA + problem solving
-03  contributing to open-source software
-04  exploring intelligent interfaces
-05  engineering things that feel different
-</pre>
+```txt
+learning     advanced ML
+sharpening   DSA
+reading      real codebases
+building     software
+exploring    CV + agents
+shipping     when it makes sense
+```
 
 </td>
 
 </tr>
-
 </table>
 
-<br>
-
 ---
 
-### 06 / OPEN SOURCE
+### 06 — OPEN SOURCE
 
-> **Read code. Understand the system. Fix something real.**
+```diff
++ read the code
++ understand the system
++ find the actual problem
++ make the smallest useful change
+```
 
-I contribute to open-source projects to work with **real production codebases**, understand engineering decisions made at scale, and become a better software engineer through actual implementation rather than isolated tutorials.
+I contribute to open-source because production code teaches things tutorials usually don't.
 
-Interested in technically meaningful contributions around:
+Large codebases, design decisions, edge cases, review feedback, legacy constraints, and the occasional:
 
-<pre>
-AI / ML        → models, inference, tooling
-Backend        → APIs, infrastructure, databases
-Developer UX   → documentation, tooling, workflows
-Open Source    → bugs, features, engineering improvements
-</pre>
+```txt
+"why the hell does this work?"
+```
+
+That's the interesting part.
 
 <br>
-
----
 
 <div align="center">
 
-## 07 / ACTIVITY
-
-<br>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashsahare05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF&hide_rank=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yashsahare05&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=6E7681" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashsahare05&bg_color=0D1117&color=8B949E&line=58A6FF&point=F0F6FC&area=true&area_color=58A6FF&hide_border=true" width="96%" />
+<img src="https://img.shields.io/badge/CONTRIBUTOR-TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/CONTRIBUTOR-Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white" />
 
 </div>
 
@@ -213,28 +175,46 @@ Open Source    → bugs, features, engineering improvements
 
 ---
 
+### 07 — OPERATING PRINCIPLES
+
+```yaml
+prefer:
+  - depth over noise
+  - systems over demos
+  - shipping over announcing
+  - clarity over complexity
+  - curiosity over certainty
+
+avoid:
+  - technology for technology's sake
+  - 47 framework badges
+  - pretending to know everything
+```
+
+---
+
 <div align="center">
 
-### LET'S BUILD SOMETHING INTERESTING.
+<br>
+
+### BUILD / BREAK / LEARN / REPEAT
 
 <samp>
-code&nbsp;&nbsp;·&nbsp;&nbsp;research&nbsp;&nbsp;·&nbsp;&nbsp;systems&nbsp;&nbsp;·&nbsp;&nbsp;design
+software · intelligence · systems · design
 </samp>
 
 <br><br>
 
 <a href="https://github.com/yashsahare05">
-  <img src="https://img.shields.io/badge/@yashsahare05-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/@yashsahare05-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<sub>
-Engineering things worth remembering.
-</sub>
+<samp>
+still figuring things out. that's kind of the point.
+</samp>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:58A6FF,100:0D1117&height=3&section=footer" width="100%" />
+<br>
 
 </div>
