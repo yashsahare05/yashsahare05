@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Yash Sahare. Code. Experiments. Work in progress.">
+<rect width="1200" height="340" rx="16" fill="#0d1117"/>
+<rect x="1" y="1" width="1198" height="338" rx="15" fill="none" stroke="#252d37"/>
+<path d="M48 77H1152" stroke="#252d37"/>
+<rect x="48" y="41" width="8" height="8" fill="#c4f56c"/>
+<g font-family="monospace" font-size="12" letter-spacing="2" fill="#929da9">
+<text x="69" y="51">YASHSAHARE05 / PERSONAL WORKSPACE</text>
+<text x="1152" y="51" text-anchor="end">ENGINEERING STUDENT</text>
+<text x="48" y="298">MACHINE LEARNING</text><text x="225" y="298" fill="#4e5a69">/</text>
+<text x="250" y="298">SOFTWARE SYSTEMS</text><text x="427" y="298" fill="#4e5a69">/</text>
+<text x="452" y="298">OPEN SOURCE</text>
+</g>
+<text x="43" y="186" font-family="Arial, Helvetica, sans-serif" font-size="90" font-weight="700" letter-spacing="-5" fill="#f0f3f6">YASH SAHARE<tspan fill="#c4f56c">.</tspan></text>
+<text x="48" y="228" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#929da9">Code. Experiments. Work in progress.</text>
+<g fill="none" stroke-width="1">
+<circle cx="1030" cy="180" r="70" stroke="#354254"/>
+<ellipse cx="1030" cy="180" rx="33" ry="70" stroke="#354254" transform="rotate(40 1030 180)"/>
+<ellipse cx="1030" cy="180" rx="33" ry="70" stroke="#5e9bff" transform="rotate(-40 1030 180)"/>
+<path d="M938 180H1122M1030 88V272" stroke="#252d37"/>
+</g>
+<circle cx="1082" cy="133" r="5" fill="#c4f56c"/>
+</svg>
